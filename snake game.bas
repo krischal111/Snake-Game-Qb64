@@ -13,7 +13,7 @@ declare function keypress$(time)
 declare sub gameover(score, headlocation())
 _FullScreen _SquarePixels
 Screen 12
-$ExeIcon:'e:/other/qb64/qbasic game icon.ico'
+$ExeIcon:'game_icon.ico'
 _Title "Snake game"
 
 
